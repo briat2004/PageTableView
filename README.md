@@ -2,4 +2,4 @@
 
 Custom segmentControl
 
-download and see ^_^
+download please
